@@ -126,7 +126,7 @@ def GetUserJson(deptId,text,stuNum,userName,RuleId,templateid,token):
             "deptid": deptId,
             "text": text
         },
-        "areaStr": {"streetNumber":"","street":"长椿路辅路","district":"中原区","city":"郑州市","province":"河南省","town":"","pois":"河南工业大学(莲花街校区)","lng":113.55064699999795 + random.random()/1000,"lat":34.83870696238093 + random.random()/1000,"address":"中原区长椿路辅路河南工业大学(莲花街校区)","text":"河南省-郑州市","code":""},
+        "areaStr": {"streetNumber":"","street":"梁王路隧道","district":"呈贡区","city":"昆明市","province":"云南省","town":"","pois":"云南师范大学呈贡校区东区文聚公寓-9号楼","lng":102.8689570000029,"lat":24.86764501523729,"address":"呈贡区梁王路隧道云南师范大学呈贡校区东区文聚公寓-9号楼","text":"云南省-昆明市","code":""},
         "reportdate": round(time.time()*1000),
         "customerid": "43",
         "deptid": deptId,
